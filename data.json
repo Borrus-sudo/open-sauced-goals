@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Borrus-sudo/open-sauced-goals",
+    "stargazers_count": 0,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "full_name": "Borrus-sudo/vue-generator-graph",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "vuejs/vue-next",
-    "stargazers_count": 24442,
-    "open_issues_count": 324,
-    "forks_count": 4160
+    "stargazers_count": 24447,
+    "open_issues_count": 325,
+    "forks_count": 4162
   },
   {
     "full_name": "Borrus-sudo/TypedJS",
