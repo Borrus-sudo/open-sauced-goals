@@ -2,18 +2,18 @@
   {
     "full_name": "vueuse/vueuse",
     "stargazers_count": 5272,
-    "open_issues_count": 44,
+    "open_issues_count": 45,
     "forks_count": 349
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 187418,
+    "stargazers_count": 187419,
     "open_issues_count": 528,
-    "forks_count": 29998
+    "forks_count": 29999
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 384,
+    "stargazers_count": 390,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 7066,
+    "stargazers_count": 7068,
     "open_issues_count": 2471,
     "forks_count": 399
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 30826,
-    "open_issues_count": 505,
+    "stargazers_count": 30827,
+    "open_issues_count": 506,
     "forks_count": 2052
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 17652,
+    "stargazers_count": 17655,
     "open_issues_count": 150,
     "forks_count": 856
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "vuejs/vue-next",
-    "stargazers_count": 24525,
+    "stargazers_count": 24526,
     "open_issues_count": 340,
     "forks_count": 4173
   },
@@ -164,7 +164,7 @@
   {
     "full_name": "microsoft/TypeScript",
     "stargazers_count": 73787,
-    "open_issues_count": 5156,
+    "open_issues_count": 5155,
     "forks_count": 9652
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 37602,
+    "stargazers_count": 37603,
     "open_issues_count": 369,
     "forks_count": 3067
   }
