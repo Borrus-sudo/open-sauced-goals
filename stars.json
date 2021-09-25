@@ -1,20 +1,20 @@
 [
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 5672,
-    "open_issues_count": 50,
-    "forks_count": 377
+    "stargazers_count": 5716,
+    "open_issues_count": 60,
+    "forks_count": 383
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 188382,
-    "open_issues_count": 529,
-    "forks_count": 30221
+    "stargazers_count": 188517,
+    "open_issues_count": 531,
+    "forks_count": 30260
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 697,
-    "open_issues_count": 3,
+    "stargazers_count": 716,
+    "open_issues_count": 5,
     "forks_count": 11
   },
   {
@@ -25,32 +25,32 @@
   },
   {
     "full_name": "octref/polacode",
-    "stargazers_count": 6454,
+    "stargazers_count": 6458,
     "open_issues_count": 60,
     "forks_count": 207
   },
   {
     "full_name": "vuejs/devtools",
-    "stargazers_count": 20943,
-    "open_issues_count": 343,
-    "forks_count": 3427
+    "stargazers_count": 20960,
+    "open_issues_count": 342,
+    "forks_count": 3436
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 7555,
-    "open_issues_count": 2921,
-    "forks_count": 435
+    "stargazers_count": 7609,
+    "open_issues_count": 3013,
+    "forks_count": 442
   },
   {
     "full_name": "Borrus-sudo/rapide-structs",
     "stargazers_count": 1,
-    "open_issues_count": 3,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 12603,
-    "open_issues_count": 605,
+    "stargazers_count": 12666,
+    "open_issues_count": 608,
     "forks_count": 333
   },
   {
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 1205,
+    "stargazers_count": 1214,
     "open_issues_count": 0,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "vuejs/petite-vue",
-    "stargazers_count": 4469,
+    "stargazers_count": 4582,
     "open_issues_count": 0,
-    "forks_count": 155
+    "forks_count": 159
   },
   {
     "full_name": "wheatjs/vite-plugin-vue-gql",
-    "stargazers_count": 138,
+    "stargazers_count": 140,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "znck/vue-developer-experience",
-    "stargazers_count": 1192,
+    "stargazers_count": 1193,
     "open_issues_count": 72,
-    "forks_count": 29
+    "forks_count": 28
   },
   {
     "full_name": "CodingGarden/stream-topic-overlay",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 31736,
-    "open_issues_count": 515,
-    "forks_count": 2149
+    "stargazers_count": 31899,
+    "open_issues_count": 528,
+    "forks_count": 2168
   },
   {
     "full_name": "Borrus-sudo/FileQuery",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 19166,
-    "open_issues_count": 172,
-    "forks_count": 949
+    "stargazers_count": 19305,
+    "open_issues_count": 163,
+    "forks_count": 955
   },
   {
     "full_name": "PKief/vscode-material-icon-theme",
-    "stargazers_count": 923,
+    "stargazers_count": 925,
     "open_issues_count": 272,
-    "forks_count": 339
+    "forks_count": 340
   },
   {
     "full_name": "vuejs/vue-next",
-    "stargazers_count": 24919,
-    "open_issues_count": 342,
-    "forks_count": 4258
+    "stargazers_count": 24970,
+    "open_issues_count": 348,
+    "forks_count": 4272
   },
   {
     "full_name": "wheatjs/vueuse-playground",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "Borrus-sudo/vue-generator-graph",
-    "stargazers_count": 39,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 74419,
-    "open_issues_count": 5260,
-    "forks_count": 9753
+    "stargazers_count": 74496,
+    "open_issues_count": 5262,
+    "forks_count": 9770
   },
   {
     "full_name": "Borrus-sudo/jsgandalf",
-    "stargazers_count": 1,
-    "open_issues_count": 3,
+    "stargazers_count": 2,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 38007,
+    "stargazers_count": 38054,
     "open_issues_count": 382,
-    "forks_count": 3082
+    "forks_count": 3091
   }
 ]
