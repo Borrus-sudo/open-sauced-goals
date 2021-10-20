@@ -1,19 +1,19 @@
 [
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 5880,
-    "open_issues_count": 77,
-    "forks_count": 413
+    "stargazers_count": 5938,
+    "open_issues_count": 63,
+    "forks_count": 416
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 189324,
-    "open_issues_count": 539,
-    "forks_count": 30414
+    "stargazers_count": 189460,
+    "open_issues_count": 536,
+    "forks_count": 30445
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 774,
+    "stargazers_count": 781,
     "open_issues_count": 7,
     "forks_count": 11
   },
@@ -26,20 +26,20 @@
   {
     "full_name": "octref/polacode",
     "stargazers_count": 6474,
-    "open_issues_count": 62,
+    "open_issues_count": 63,
     "forks_count": 210
   },
   {
     "full_name": "vuejs/devtools",
-    "stargazers_count": 21079,
-    "open_issues_count": 343,
-    "forks_count": 3458
+    "stargazers_count": 21101,
+    "open_issues_count": 344,
+    "forks_count": 3463
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 8082,
-    "open_issues_count": 3460,
-    "forks_count": 479
+    "stargazers_count": 8166,
+    "open_issues_count": 3548,
+    "forks_count": 486
   },
   {
     "full_name": "Borrus-sudo/rapide-structs",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 13010,
-    "open_issues_count": 619,
+    "stargazers_count": 13072,
+    "open_issues_count": 624,
     "forks_count": 344
   },
   {
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 1232,
+    "stargazers_count": 1235,
     "open_issues_count": 0,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "vuejs/petite-vue",
-    "stargazers_count": 5007,
+    "stargazers_count": 5045,
     "open_issues_count": 3,
     "forks_count": 178
   },
   {
     "full_name": "wheatjs/vite-plugin-vue-gql",
-    "stargazers_count": 145,
+    "stargazers_count": 147,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "znck/vue-developer-experience",
-    "stargazers_count": 1198,
+    "stargazers_count": 1197,
     "open_issues_count": 72,
-    "forks_count": 28
+    "forks_count": 27
   },
   {
     "full_name": "CodingGarden/stream-topic-overlay",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "sdras/recipe-box",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "hackclub/dinosaurs",
-    "stargazers_count": 277,
+    "stargazers_count": 279,
     "open_issues_count": 1,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 32684,
-    "open_issues_count": 577,
-    "forks_count": 2250
+    "stargazers_count": 32819,
+    "open_issues_count": 593,
+    "forks_count": 2263
   },
   {
     "full_name": "Borrus-sudo/FileQuery",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "Borrus-sudo/awesome-stack",
-    "stargazers_count": 9,
-    "open_issues_count": 3,
+    "stargazers_count": 10,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 20325,
-    "open_issues_count": 152,
-    "forks_count": 1025
+    "stargazers_count": 20439,
+    "open_issues_count": 156,
+    "forks_count": 1038
   },
   {
     "full_name": "PKief/vscode-material-icon-theme",
-    "stargazers_count": 943,
-    "open_issues_count": 284,
+    "stargazers_count": 949,
+    "open_issues_count": 287,
     "forks_count": 344
   },
   {
     "full_name": "vuejs/vue-next",
-    "stargazers_count": 25403,
-    "open_issues_count": 367,
-    "forks_count": 4361
+    "stargazers_count": 25447,
+    "open_issues_count": 374,
+    "forks_count": 4373
   },
   {
     "full_name": "wheatjs/vueuse-playground",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 74951,
-    "open_issues_count": 5276,
-    "forks_count": 9836
+    "stargazers_count": 75027,
+    "open_issues_count": 5295,
+    "forks_count": 9840
   },
   {
     "full_name": "Borrus-sudo/jsgandalf",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 38335,
-    "open_issues_count": 409,
-    "forks_count": 3112
+    "stargazers_count": 38369,
+    "open_issues_count": 410,
+    "forks_count": 3115
   }
 ]
