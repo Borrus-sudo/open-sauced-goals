@@ -1,20 +1,20 @@
 [
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 8591,
-    "open_issues_count": 117,
-    "forks_count": 746
+    "stargazers_count": 8656,
+    "open_issues_count": 119,
+    "forks_count": 754
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 193951,
+    "stargazers_count": 194100,
     "open_issues_count": 565,
-    "forks_count": 31636
+    "forks_count": 31679
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1038,
-    "open_issues_count": 12,
+    "stargazers_count": 1048,
+    "open_issues_count": 11,
     "forks_count": 23
   },
   {
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "octref/polacode",
-    "stargazers_count": 6570,
+    "stargazers_count": 6571,
     "open_issues_count": 69,
     "forks_count": 211
   },
   {
     "full_name": "vuejs/devtools",
-    "stargazers_count": 22050,
-    "open_issues_count": 379,
-    "forks_count": 3691
+    "stargazers_count": 22083,
+    "open_issues_count": 375,
+    "forks_count": 3701
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 14102,
-    "open_issues_count": 6544,
-    "forks_count": 1032
+    "stargazers_count": 14317,
+    "open_issues_count": 6642,
+    "forks_count": 1070
   },
   {
     "full_name": "Borrus-sudo/rapide-structs",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 15712,
-    "open_issues_count": 728,
-    "forks_count": 438
+    "stargazers_count": 15768,
+    "open_issues_count": 734,
+    "forks_count": 439
   },
   {
     "full_name": "LinusBorg/vue-reactive-provide",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 1808,
+    "stargazers_count": 1834,
     "open_issues_count": 0,
     "forks_count": 59
   },
   {
     "full_name": "vuejs/petite-vue",
-    "stargazers_count": 5889,
-    "open_issues_count": 5,
-    "forks_count": 233
+    "stargazers_count": 5899,
+    "open_issues_count": 4,
+    "forks_count": 234
   },
   {
     "full_name": "wheatjs/vite-plugin-vue-gql",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "hackclub/dinosaurs",
-    "stargazers_count": 356,
-    "open_issues_count": 2,
+    "stargazers_count": 357,
+    "open_issues_count": 3,
     "forks_count": 56
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 38954,
-    "open_issues_count": 867,
-    "forks_count": 2965
+    "stargazers_count": 39122,
+    "open_issues_count": 829,
+    "forks_count": 2990
   },
   {
     "full_name": "Borrus-sudo/FileQuery",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 29480,
-    "open_issues_count": 252,
-    "forks_count": 1676
+    "stargazers_count": 29578,
+    "open_issues_count": 250,
+    "forks_count": 1687
   },
   {
     "full_name": "PKief/vscode-material-icon-theme",
-    "stargazers_count": 1083,
-    "open_issues_count": 323,
-    "forks_count": 389
+    "stargazers_count": 1090,
+    "open_issues_count": 322,
+    "forks_count": 391
   },
   {
     "full_name": "vuejs/vue-next",
-    "stargazers_count": 28176,
-    "open_issues_count": 564,
-    "forks_count": 5019
+    "stargazers_count": 28303,
+    "open_issues_count": 570,
+    "forks_count": 5047
   },
   {
     "full_name": "wheatjs/vueuse-playground",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 78769,
-    "open_issues_count": 5455,
-    "forks_count": 10322
+    "stargazers_count": 78887,
+    "open_issues_count": 5472,
+    "forks_count": 10338
   },
   {
     "full_name": "Borrus-sudo/jsgandalf",
     "stargazers_count": 5,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 39580,
-    "open_issues_count": 517,
-    "forks_count": 3215
+    "stargazers_count": 39600,
+    "open_issues_count": 509,
+    "forks_count": 3214
   }
 ]
