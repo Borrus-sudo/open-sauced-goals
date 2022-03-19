@@ -1,19 +1,19 @@
 [
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 8656,
-    "open_issues_count": 119,
-    "forks_count": 754
+    "stargazers_count": 8721,
+    "open_issues_count": 113,
+    "forks_count": 763
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 194100,
-    "open_issues_count": 565,
-    "forks_count": 31679
+    "stargazers_count": 194211,
+    "open_issues_count": 566,
+    "forks_count": 31710
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1048,
+    "stargazers_count": 1052,
     "open_issues_count": 11,
     "forks_count": 23
   },
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "octref/polacode",
-    "stargazers_count": 6571,
+    "stargazers_count": 6573,
     "open_issues_count": 69,
     "forks_count": 211
   },
   {
     "full_name": "vuejs/devtools",
-    "stargazers_count": 22083,
-    "open_issues_count": 375,
-    "forks_count": 3701
+    "stargazers_count": 22105,
+    "open_issues_count": 378,
+    "forks_count": 3705
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 14317,
-    "open_issues_count": 6642,
-    "forks_count": 1070
+    "stargazers_count": 14482,
+    "open_issues_count": 6745,
+    "forks_count": 1095
   },
   {
     "full_name": "Borrus-sudo/rapide-structs",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 15768,
-    "open_issues_count": 734,
-    "forks_count": 439
+    "stargazers_count": 15827,
+    "open_issues_count": 735,
+    "forks_count": 440
   },
   {
     "full_name": "LinusBorg/vue-reactive-provide",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 1834,
+    "stargazers_count": 1839,
     "open_issues_count": 0,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "vuejs/petite-vue",
-    "stargazers_count": 5899,
-    "open_issues_count": 4,
-    "forks_count": 234
+    "stargazers_count": 5922,
+    "open_issues_count": 5,
+    "forks_count": 235
   },
   {
     "full_name": "wheatjs/vite-plugin-vue-gql",
-    "stargazers_count": 177,
+    "stargazers_count": 178,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "hackclub/dinosaurs",
-    "stargazers_count": 357,
+    "stargazers_count": 365,
     "open_issues_count": 3,
     "forks_count": 56
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 39122,
-    "open_issues_count": 829,
-    "forks_count": 2990
+    "stargazers_count": 39228,
+    "open_issues_count": 830,
+    "forks_count": 3009
   },
   {
     "full_name": "Borrus-sudo/FileQuery",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 29578,
-    "open_issues_count": 250,
-    "forks_count": 1687
+    "stargazers_count": 29679,
+    "open_issues_count": 259,
+    "forks_count": 1697
   },
   {
     "full_name": "PKief/vscode-material-icon-theme",
-    "stargazers_count": 1090,
+    "stargazers_count": 1093,
     "open_issues_count": 322,
-    "forks_count": 391
+    "forks_count": 392
   },
   {
     "full_name": "vuejs/vue-next",
-    "stargazers_count": 28303,
-    "open_issues_count": 570,
-    "forks_count": 5047
+    "stargazers_count": 28417,
+    "open_issues_count": 573,
+    "forks_count": 5075
   },
   {
     "full_name": "wheatjs/vueuse-playground",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 78887,
-    "open_issues_count": 5472,
-    "forks_count": 10338
+    "stargazers_count": 78959,
+    "open_issues_count": 5477,
+    "forks_count": 10341
   },
   {
     "full_name": "Borrus-sudo/jsgandalf",
     "stargazers_count": 5,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 39600,
-    "open_issues_count": 509,
-    "forks_count": 3214
+    "stargazers_count": 39621,
+    "open_issues_count": 512,
+    "forks_count": 3216
   }
 ]
