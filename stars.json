@@ -1,20 +1,20 @@
 [
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 9059,
-    "open_issues_count": 118,
-    "forks_count": 823
+    "stargazers_count": 9109,
+    "open_issues_count": 120,
+    "forks_count": 832
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 194680,
+    "stargazers_count": 194784,
     "open_issues_count": 567,
-    "forks_count": 31852
+    "forks_count": 31870
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1087,
-    "open_issues_count": 11,
+    "stargazers_count": 1093,
+    "open_issues_count": 12,
     "forks_count": 25
   },
   {
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "octref/polacode",
-    "stargazers_count": 6590,
+    "stargazers_count": 6592,
     "open_issues_count": 69,
     "forks_count": 212
   },
   {
     "full_name": "vuejs/devtools",
-    "stargazers_count": 22197,
-    "open_issues_count": 385,
-    "forks_count": 3758
+    "stargazers_count": 22205,
+    "open_issues_count": 389,
+    "forks_count": 3771
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 15422,
-    "open_issues_count": 7349,
-    "forks_count": 1227
+    "stargazers_count": 15563,
+    "open_issues_count": 7487,
+    "forks_count": 1258
   },
   {
     "full_name": "Borrus-sudo/rapide-structs",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 16210,
-    "open_issues_count": 758,
+    "stargazers_count": 16307,
+    "open_issues_count": 760,
     "forks_count": 459
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 1871,
-    "open_issues_count": 1,
+    "stargazers_count": 1897,
+    "open_issues_count": 2,
     "forks_count": 61
   },
   {
     "full_name": "vuejs/petite-vue",
-    "stargazers_count": 6031,
+    "stargazers_count": 6048,
     "open_issues_count": 5,
-    "forks_count": 240
+    "forks_count": 242
   },
   {
     "full_name": "wheatjs/vite-plugin-vue-gql",
@@ -86,7 +86,7 @@
   {
     "full_name": "znck/vue-developer-experience",
     "stargazers_count": 1216,
-    "open_issues_count": 75,
+    "open_issues_count": 74,
     "forks_count": 29
   },
   {
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 40103,
-    "open_issues_count": 736,
-    "forks_count": 3107
+    "stargazers_count": 40258,
+    "open_issues_count": 748,
+    "forks_count": 3119
   },
   {
     "full_name": "Borrus-sudo/FileQuery",
@@ -127,25 +127,25 @@
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 30706,
-    "open_issues_count": 272,
-    "forks_count": 1783
+    "stargazers_count": 30818,
+    "open_issues_count": 265,
+    "forks_count": 1787
   },
   {
     "full_name": "PKief/vscode-material-icon-theme",
-    "stargazers_count": 1118,
-    "open_issues_count": 313,
-    "forks_count": 399
+    "stargazers_count": 1122,
+    "open_issues_count": 314,
+    "forks_count": 402
   },
   {
     "full_name": "vuejs/vue-next",
-    "stargazers_count": 28913,
-    "open_issues_count": 593,
-    "forks_count": 5181
+    "stargazers_count": 28995,
+    "open_issues_count": 602,
+    "forks_count": 5199
   },
   {
     "full_name": "wheatjs/vueuse-playground",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 4,
     "forks_count": 11
   },
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "Borrus-sudo/vue-generator-graph",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 79448,
-    "open_issues_count": 5494,
-    "forks_count": 10411
+    "stargazers_count": 79557,
+    "open_issues_count": 5490,
+    "forks_count": 10430
   },
   {
     "full_name": "Borrus-sudo/jsgandalf",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 39752,
-    "open_issues_count": 525,
-    "forks_count": 3217
+    "stargazers_count": 39773,
+    "open_issues_count": 527,
+    "forks_count": 3218
   }
 ]
